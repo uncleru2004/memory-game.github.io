@@ -1,7 +1,7 @@
 # Template project
 
 
-## Instructions рџ“‹
+## Instructions
 
 * Download application
 * Run terminal inside this folder
