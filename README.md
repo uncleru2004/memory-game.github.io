@@ -1,4 +1,4 @@
-# Template project
+# Memory Game project
 
 
 ## Instructions
